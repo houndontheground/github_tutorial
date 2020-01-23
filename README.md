@@ -15,3 +15,11 @@ git config --global user.name "[your username]"
 ## Step 3
 Add files or alter current project
 
+## Step 4
+Run through the commands to make a commit history
+
+```git
+git add .
+git commit -m "initial commit"
+```
+
